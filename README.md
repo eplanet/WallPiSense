@@ -4,6 +4,8 @@ A simple game for Raspberry Pi Sense Hat
 # Introduction
 The Raspberry Pi Sense Hat is a great device for messing around with your favourite computer. While exploring the 8x8 matrix and joystick, I found amusing to improvise a game like that.
 
+You can play it online on [Trinket](https://trinket.io/python/d87b000533)
+
 # Requirements
 ## Hardware
 * [Sense Hat](https://www.raspberrypi.org/products/sense-hat/): the add-on board that enables the game
